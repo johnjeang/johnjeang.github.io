@@ -25,7 +25,8 @@ main:
   #  url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/jjeang_cv_2026.pdf
+    #url: /cv/
     #can switch this to something like /files/cv.pdf
     #after uploading cv
     
